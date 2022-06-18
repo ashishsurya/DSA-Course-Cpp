@@ -107,6 +107,7 @@
     "source_location": "cpp",
     "utility": "cpp",
     "stop_token": "cpp",
-    "syncstream": "cpp"
+    "syncstream": "cpp",
+    "filesystem": "cpp"
   }
 }
